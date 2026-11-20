@@ -1,3 +1,4 @@
+// Trend-aware forecaster for GTA VI trophy rarity - make.fun gta6-trophy-rarity-forecast-01
 // gta6-trophy-rarity-forecast-01: trend-aware forecaster with tier-calibrated spread.
 // Fits a logit-linear trend to recent reads and projects it forward,
 // with spread that widens by horizon and trophy tier.
